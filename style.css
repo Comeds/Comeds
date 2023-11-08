@@ -144,10 +144,10 @@ div.courses{
 @media (max-width: 400px){
     
     div.gcard{
-        width: 80%
+        width: 100%
     }
     ul.departs li{
-        width: 33%;
+        width: 80%;
         float: left;
         font-size: small;
     }
