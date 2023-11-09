@@ -148,7 +148,6 @@ div.courses{
     }
     ul.departs li{
         width: 80%;
-        float: left;
         font-size: small;
     }
 }
